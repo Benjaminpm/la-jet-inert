@@ -17,5 +17,5 @@ No. Sin embargo proporciona el punto de partida perfecto para su próxima aplica
 Proyecto final.
 
 ¿Hay algunos problemas conocidos o cosas que no se hacen correctamente?
-Sí. Se debe crear el proyecto desde el inicio para que no surja problemas con el Jetstream - Livewire.
+Sí. Se debe crear el proyecto desde el inicio para que no surja problemas con el Jetstream - Inertia.
 Es decir no se puede implementar en proyectos que ya tengan tecnologías adicionales.
